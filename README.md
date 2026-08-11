@@ -28,10 +28,10 @@ This script is made available **as-is**, without warranty of any kind, under the
    - If `-VerboseOutput` is used, additional detail is added to that log (still no console output).
 
 4. **Exit Codes**  
-   - **0** – Successful removal (or Cortex XDR was not found).  
-   - **1** – Could not set up log directory (script exits early).  
-   - **2** – Script not run as Administrator.  
-   - **3** – Partial or unsuccessful removal (manual intervention may be required).
+   - **0** - Successful removal (or Cortex XDR was not found).  
+   - **1** - Could not set up log directory (script exits early).  
+   - **2** - Script not run as Administrator.  
+   - **3** - Partial or unsuccessful removal (manual intervention may be required).
 
 ---
 
@@ -86,7 +86,7 @@ No console output is displayed; refer to the log file for progress and error mes
 
 ## License and Disclaimer
 
-This script is provided under the **MIT License**. Use of this script is **at your own risk** — you assume all responsibility for any outcomes. The script’s author/maintainer is **not responsible** for any errors, damages, or losses incurred from its use.
+This script is provided under the **MIT License**. Use of this script is **at your own risk** - you assume all responsibility for any outcomes. The script's author/maintainer is **not responsible** for any errors, damages, or losses incurred from its use.
 
 > **MIT License** (excerpt):
 > Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, and/or distribute copies of the Software, subject to the following conditions: ... THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
